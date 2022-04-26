@@ -89,6 +89,7 @@ nav ul li a:hover {
 .footer {
     height: 100px;
     border-bottom: 10px solid saddlebrown;
+    padding-top: 100px;
 }
 
 .top_footer {
